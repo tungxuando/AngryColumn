@@ -72,7 +72,7 @@ This section describes the outputs of the game.
 
 This section includes the UML class diagram.
 
-![](C:\xampp\htdocs\javaScript\Angry Columns.png)
+![](Angry Columns.png)
 
 ## Test plan
 
