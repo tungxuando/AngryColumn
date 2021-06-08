@@ -72,7 +72,7 @@ This section describes the outputs of the game.
 
 This section includes the UML class diagram.
 
-![](Angry Columns.png)
+![](https://i.imgur.com/9garHoP.png)
 
 ## Test plan
 
